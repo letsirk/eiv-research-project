@@ -148,7 +148,8 @@ class NLPModel():
             # http://bionlp-www.utu.fi/wv_demo/ --> online interface
             # https://github.com/fginter/wvlib_light/tree/3471a8db66883769c4e5398806876d5be3e3df24 --> library
             import lwvlib
-            self.wv=lwvlib.load("finnish_s24_skgram.bin") #,10000,500000)
+            self.wv=lwvlib.load("finnish_4B_parsebank_skgram.bin") # 
+            #self.wv=lwvlib.load("finnish_s24_skgram.bin") #,10000,500000)
         elif model_name == 'kyubyong':
             #import gensim 
             #https://github.com/Kyubyong/wordvectors
