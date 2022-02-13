@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A research project, continuous to [project](https://github.com/letsirk/EIV) in Explorative Information Visualization course, explores different Machine Learning and Natural Language Processing techniques to group ingredients based on the names in the receipts. The project was accomplished during 2019 for Research Project in Machine Learning and Data Science course.  
+A research project, continuous to [project](https://github.com/letsirk/EIV) in Explorative Information Visualization course, explores different Machine Learning and Natural Language Processing techniques to group ingredients based on the names in the receipts. The project was accomplished during 2019 for *Research Project in Machine Learning and Data Science* course. The detailed information about the project and its results can be found [here](https://github.com/letsirk/eiv-research-project/blob/master/research-project-in-machine-learning-report.pdf). Furthermore, the results are summarized in the last cell of [this notebook](https://letsirk.github.io/eiv-research-project/).
 
 ## Techniques and Tools
 
@@ -21,5 +21,3 @@ All the following models were trained, validated and tested:
 * Natural Language Processing models
   * Turku NLP pretrained model
   * Gensim Word2Vec
-
-The results are summarized in the last cell of [the notebook](https://letsirk.github.io/eiv-research-project/). Unfortunately, the written report has been lost during the years. 
